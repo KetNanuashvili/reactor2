@@ -1,0 +1,30 @@
+.MainDiv-class{
+    padding: 32px;
+}
+
+.smallStarDiv{
+    background-color: #262E38;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+  justify-content: center;
+}
+.h1-tag{
+    margin-top:30px ;
+    color: #FFFFFF;
+    font-size:28px;
+    font-weight: 700;
+    line-height: 35.45px;
+    font-style: bold;
+}
+.p-tag{
+    margin-top:7px ;
+    color: #969FAD;
+    font-size:15px;
+    font-weight: 400;
+    line-height: 24px;
+    font-style: normal;
+    margin-bottom: 24px;
+}
