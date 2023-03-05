@@ -3,9 +3,14 @@ body{
   
 }
 .App{
-  width: 412px;
+  max-width: 412px;
+  width: 100%;
   height: 426px;
   background-color: #181E27;
   border-radius: 30px;
 
 }
+.hideMaindiv{
+  display: none;
+}
+

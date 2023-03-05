@@ -28,3 +28,8 @@
     font-style: normal;
     margin-bottom: 24px;
 }
+/*ეს მინდა როცა დააჭერს მომხარებელი საბმითს, უნდა გაქრეს და გამოჩნდეს thank you მენიუ*/
+.hidemaindiv{
+    display: none;
+  }
+  

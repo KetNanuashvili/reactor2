@@ -1,0 +1,40 @@
+.HideDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 45.79px;
+}
+.select-div{
+    margin-top: 32px;
+    width: 193px;
+    height: 32px;
+    border-radius: 22.5px;
+    background-color: #262E38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hide-h3{
+    font-size: 15px;
+    color: #FC7614;
+    font-weight: 400;
+}
+.hide-h4{
+  font-weight: 400;
+  color: #FFFFFF;
+  font-size: 28px;
+  line-height: 43px;
+  letter-spacing: 1px;
+
+}
+.hide-p{
+    margin-top: 7px;
+    text-align: center;
+    font-size: 15px;
+    max-width: 340px;
+    width: 100%;
+    color: #969FAD;
+}
+.hideseconddiv{
+    display: none;
+}
